@@ -7,7 +7,7 @@ Demos of the MultiMiner Generic Mine Site Monitoring (GMSM) algorithm. Two Jupyt
 * demonstrate how GMSM handle general time series data
 * ~93% validation accuracy; per-file predicted error rate matches ground truth within a few difference
 
-### Notes: Source codes, data and model checkpoints for all downstream tasks are under official repository (https://github.com/EU-horizon-multiminer/WP3.1_GMSM) and will be open public once manuscript is acccepted.
+### Notes: Source codes, data and model checkpoints for all downstream tasks are under MultiMiner internal repository (https://github.com/EU-horizon-multiminer/WP3.1_GMSM) and will be open publicly once the manuscript is acccepted.
 ---
 
 ## Author
