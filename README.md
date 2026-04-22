@@ -3,7 +3,7 @@ Demos of the MultiMiner Generic Mine Site Monitoring (GMSM) algorithm. Two Jupyt
 ## Vegetation monitoring
 * demonstrate how GMSM handle SITS, single satellite image, multi-modal inputs
 * multi-modal fusion lowers RMSE over the best single-modal baseline
-## Open pit and dam stability monitoring
+## Open pit and dam stability monitoring (will be released later)
 * demonstrate how GMSM handle general time series data
 * ~93% validation accuracy; per-file predicted error rate matches ground truth within a few difference
 
